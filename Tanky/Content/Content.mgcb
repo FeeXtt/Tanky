@@ -24,4 +24,5 @@
 /processorParam:MakeSquare=False
 /processorParam:TextureFormat=Color
 /build:tank.png
+/build:bullet.png
 
