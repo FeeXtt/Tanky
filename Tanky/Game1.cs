@@ -71,7 +71,7 @@ namespace Tanky
         {
             _spriteBatch = new SpriteBatch(GraphicsDevice);
 
-            // TODO: use this.Content to load your game content here
+            
 
             _texture = Content.Load<Texture2D>("tank");
             bulletTexture = Content.Load<Texture2D>("bullet");
