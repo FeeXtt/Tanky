@@ -75,7 +75,7 @@ namespace Tanky
 
             _texture = Content.Load<Texture2D>("tank");
             bulletTexture = Content.Load<Texture2D>("bullet");
-            enemyTankTexture = Content.Load<Texture2D>("enemy");
+            enemyTankTexture = Content.Load<Texture2D>("enemyTank");
             enemyBulletTexture = Content.Load<Texture2D>("bullet");
 
             
